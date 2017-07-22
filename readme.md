@@ -97,6 +97,10 @@ Optional:
 
 * [Sverchok](https://github.com/nortikin/sverchok)
 
+### Themes
+
+Go to the Node Editor theme area from the left menu bar.
+Noodle curving: 1
 
 ### System
 
