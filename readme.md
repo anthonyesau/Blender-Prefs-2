@@ -77,3 +77,46 @@ Disable mouse/trackpad pan from rotating view. -->
 ☐ Ctrl
 ✓ Alt
 Zoom with <kbd>Alt trackpad pan<kbd>. Same method as Adobe products.-->
+
+
+### Add-ons
+
+✓ Node Wrangler
+
+✓ Import Images as Planes
+
+✓ Bool Tool
+
+✓ [Filmic Blender Add-on](https://github.com/gregzaal/filmic-blender-add-on)
+
+Optional:
+
+* 3D Print Toolbox
+
+* [Animation Nodes](https://github.com/JacquesLucke/animation_nodes)
+
+* [Sverchok](https://github.com/nortikin/sverchok)
+
+
+### System
+
+![System Preferences](readme-assets/system-prefs.png)
+
+Cycles Compute Device: OpenCL
+
+Images Draw Method [2D Texture]: GLSL
+
+✓ Regional Overlap
+
+
+## Settings within GUI
+
+### Info Window
+
+Render Engine [Blender Render]: Cycles Render
+
+
+### Properties Window > Scene > Color Management
+
+View: Filmic Log Encoding Base
+Look: Base Contrast
