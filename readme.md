@@ -28,11 +28,14 @@ To be concise, only changes to the default settings are documented.
 
 ✓ = enable
 
-☐ = disable 
+☐ = disable
+
+Any options within `<!--` and `--!>` are under consideration but not currently employed. They are only visible while editing the Markdown source of the documentation.
 
 ## User Preferences
 
-Access this menu via `File > User Preferences...` <kbd>CMD ,</kbd>.
+Access this menu via `File > User Preferences...` <kbd>Cmd ,</kbd>.
+
 
 ### Interface
 
@@ -49,3 +52,28 @@ Access this menu via `File > User Preferences...` <kbd>CMD ,</kbd>.
 Smooth View: 500
 
 ☐ Manipulator
+
+
+### Input
+
+Select With: Left
+
+#### 3D View > 3D View (Global) > Set 3D Cursor
+✓ Cmd
+
+
+#### 3D View > 3D View (Global) > Context Toggle Values [Keyboard: Alt Z]
+Value: TEXTURED
+Value: MATERIAL
+
+Change top value to `TEXTURED`, bottom value to `MATERIAL`. Toggle between texture and material shading modes with <kbd>Alt Z</kbd>.
+![Context Toggle Values](readme-assets/input-context-toggle-values.png)
+
+<!-- #### 3D View > 3D View (Global) > Rotate View [Mouse: Mouse/Trackpad Pan]
+☐ Rotate View [Mouse: Mouse/Trackpad Pan]
+Disable mouse/trackpad pan from rotating view. -->
+
+<!-- #### 3D View > 3D View (Global) > Zoom View [Mouse: Ctrl Mouse/Trackpad Pan]
+☐ Ctrl
+✓ Alt
+Zoom with <kbd>Alt trackpad pan<kbd>. Same method as Adobe products.-->
