@@ -87,7 +87,7 @@ Zoom with <kbd>Alt trackpad pan<kbd>. Same method as Adobe products.-->
 
 ✓ Bool Tool
 
-✓ Layer Management
+✓ [Filmic Blender Add-on](https://github.com/gregzaal/filmic-blender-add-on)
 
 Optional:
 

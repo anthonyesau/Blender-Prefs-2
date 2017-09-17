@@ -2,6 +2,8 @@
 
 This set of personalized preferences for Blender is ever evolving toward a more efficient and pleasing workflow.
 
+Blender 2.79
+
 
 ## Installation
 
@@ -87,7 +89,7 @@ Zoom with <kbd>Alt trackpad pan<kbd>. Same method as Adobe products.-->
 
 ✓ Bool Tool
 
-✓ [Filmic Blender Add-on](https://github.com/gregzaal/filmic-blender-add-on)
+✓ Layer Management
 
 Optional:
 
