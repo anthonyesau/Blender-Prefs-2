@@ -71,6 +71,12 @@ Value: MATERIAL
 Change top value to `TEXTURED`, bottom value to `MATERIAL`. Toggle between texture and material shading modes with <kbd>Alt Z</kbd>.
 ![Context Toggle Values](readme-assets/input-context-toggle-values.png)
 
+#### Mouse Zoom
+☐ 3D View > 3D View (Global) > Rotate View [Mouse: Mouse/Trackpad Pan]
+
+##### 3D View > 3D View (Global) > Zoom View [Mouse: Mouse/Trackpad Zoom]
+Change to `Mouse: Mouse/Trackpad Pan`
+
 <!-- #### 3D View > 3D View (Global) > Rotate View [Mouse: Mouse/Trackpad Pan]
 ☐ Rotate View [Mouse: Mouse/Trackpad Pan]
 Disable mouse/trackpad pan from rotating view. -->
