@@ -1,0 +1,3 @@
+[submodule "2.79/scripts/addons/blender-custom-tools"]
+	path = 2.79/scripts/addons/blender-custom-tools
+	url = https://github.com/anthonyesau/blender-custom-tools
