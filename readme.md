@@ -93,6 +93,8 @@ Type of Event: Right, Click
 
 ### Add-ons
 
+Enable these add-ons that come standard with Blender.
+
 ✓ Node Wrangler
 
 ✓ Import Images as Planes
@@ -101,7 +103,15 @@ Type of Event: Right, Click
 
 ✓ Layer Management
 
-Optional:
+
+#### Install Add-ons
+
+These add-ons must be downloaded and installed.
+
+✓ [Blender Custom Tools](https://github.com/anthonyesau/blender-custom-tools)
+
+
+#### Optional Add-ons
 
 * 3D Print Toolbox
 
