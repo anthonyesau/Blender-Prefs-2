@@ -86,6 +86,10 @@ Disable mouse/trackpad pan from rotating view. -->
 ✓ Alt
 Zoom with <kbd>Alt trackpad pan<kbd>. Same method as Adobe products.-->
 
+#### 3D View > 3D View (Global) > Move View
+Add new: view3d.move
+Map Type: Mouse
+Type of Event: Right, Click
 
 ### Add-ons
 
